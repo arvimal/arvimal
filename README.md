@@ -1,7 +1,4 @@
-### Hello 👋, here is what I'm currently working on!
-
-
-Here are some ideas to get you started:
+### Hello 👋, a bit about me :) 
 
 - 🔭 I’m currently working on ... Ansible, Kubernetes, Containers
 - 🌱 I’m currently learning ... Golang
