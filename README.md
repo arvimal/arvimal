@@ -1,4 +1,4 @@
-### Hello 👋, a bit about me :) 
+### Hello 👋, a bit about me :raising_hand:
 
 - 🔭 I’m currently working on ... Ansible, Kubernetes, Containers
 - 🌱 I’m currently learning ... Golang
