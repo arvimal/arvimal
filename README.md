@@ -30,7 +30,7 @@
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
----
+
 ### Connect with me:
 
 [<img align="left" alt="arvimal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -38,5 +38,6 @@
 
 
 <br />
+
 [website]: https://arvimal.github.io
 [linkedin]: https://linkedin.com/in/arvimal
