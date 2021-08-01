@@ -29,6 +29,8 @@
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#11](https://github.com/arvimal/Daisho/pull/11) in [arvimal/Daisho](https://github.com/arvimal/Daisho)
+2. 💪 Opened PR [#11](https://github.com/arvimal/Daisho/pull/11) in [arvimal/Daisho](https://github.com/arvimal/Daisho)
 <!--END_SECTION:activity-->
 
 ### Connect with me:
