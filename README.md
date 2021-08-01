@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Stats
-  <img align="left" alt="arvimal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="arvimal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arvimal&show_icons=true&hide_border=true" />
 
 ### Recent GitHub Activity
 <!--START_SECTION:activity-->
