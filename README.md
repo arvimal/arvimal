@@ -24,7 +24,7 @@
 - [Recursion - Algorithm Study](https://arvimal.github.io/posts/2017/06/2017-06-27-recursion-algorithm-study/)
 <!-- BLOG-POST-LIST:END -->
 
-### My GitHub Stats
+### arvimal's GitHub Stats
 [![arvimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvimal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Recent GitHub Activity
@@ -32,8 +32,6 @@
 <!--END_SECTION:activity-->
 
 ### Connect with me:
-
-[<img align="left" alt="arvimal.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="arvimal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
