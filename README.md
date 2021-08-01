@@ -17,6 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving_to_Hugo](https://arvimal.github.io/posts/2021/05/moving_to_hugo/)
+- [Git Submodules](https://arvimal.github.io/posts/2021/05/git-submodules/)
+- [Callables in Python](https://arvimal.github.io/posts/2017/08/2017-08-09-callables-in-python/)
+- [Writing a minimalistic kernel module in Linux - Part 1](https://arvimal.github.io/posts/2017/07/2017-07-27-writing-a-minimalistic-kernel-module-in-linux-part-1/)
+- [Recursion - Algorithm Study](https://arvimal.github.io/posts/2017/06/2017-06-27-recursion-algorithm-study/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Stats
