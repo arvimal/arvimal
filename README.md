@@ -23,6 +23,12 @@
 - Anaconda - The Red Hat / Fedora Installer
 - Agile workflows
 
+<h3 align="left"><b>I am interested in:</b></h3>
+
+- Site Reliability Engineering
+- Automation
+- Creating user-space tools/utilities
+
 ---
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
