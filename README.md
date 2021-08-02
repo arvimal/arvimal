@@ -1,43 +1,40 @@
-### Hello 👋, a bit about me :raising_hand:
+<h1 align="center">Hi 👋, I'm Vimal</h1>
+<h3 align="center">A Systems Engineer</h3>
 
-- 🔭 I’m currently working on ... Ansible, Kubernetes, Containers, Python
-- 🌱 I’m currently learning ... GraphQL, FastAPI, Kubernetes
-- ⚡ Fun fact: I love to draw and read 
-- 📫 Reach me at: arvimal81@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvimal&label=Profile%20views&color=0e75b6&style=flat" alt="arvimal" /> </p>
 
-### Technologies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvimal" alt="arvimal" /></a> </p>
 
-- Linux
-- Kubernetes
-- Containers
-- Python
-- Networking
-- Distributed Systems
+- 🔭 I’m currently working on **Ansible, Kubernetes, Python, Containers**
 
-### 📕 Latest Blog Posts
+- 🌱 I’m currently learning **FastAPI, GraphQL**
 
+- 🤝 I’m looking for help with **Kubernetes**
+
+- 👨‍💻 All of my projects are available at [https://github.io/arvimal](https://github.io/arvimal)
+
+- 📝 I regularly write articles on [https://arvimal.github.io](https://arvimal.github.io)
+
+- 💬 Ask me about **Linux, Python, Ansible**
+
+- 📫 How to reach me **arvimal81@gmail.com**
+
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Moving_to_Hugo](https://arvimal.github.io/posts/2021/05/moving_to_hugo/)
-- [Git Submodules](https://arvimal.github.io/posts/2021/05/git-submodules/)
-- [Callables in Python](https://arvimal.github.io/posts/2017/08/2017-08-09-callables-in-python/)
-- [Writing a minimalistic kernel module in Linux - Part 1](https://arvimal.github.io/posts/2017/07/2017-07-27-writing-a-minimalistic-kernel-module-in-linux-part-1/)
-- [Recursion - Algorithm Study](https://arvimal.github.io/posts/2017/06/2017-06-27-recursion-algorithm-study/)
 <!-- BLOG-POST-LIST:END -->
 
-### arvimal's GitHub Stats
-[![arvimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvimal&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="40" /></a>
+<a href="/https://arvimal.github.io/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arvimal.github.io/index.xml" height="30" width="40" /></a>
+</p>
 
-### Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/arvimal/Daisho/issues/13) in [arvimal/Daisho](https://github.com/arvimal/Daisho)
-2. ❗️ Closed issue [#2](https://github.com/arvimal/Daisho/issues/2) in [arvimal/Daisho](https://github.com/arvimal/Daisho)
-<!--END_SECTION:activity-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### Connect with me:
-[<img align="left" alt="arvimal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvimal&show_icons=true&locale=en&layout=compact" alt="arvimal" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvimal&show_icons=true&locale=en" alt="arvimal" /></p>
 
-<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvimal&" alt="arvimal" /></p>
 
-[website]: https://arvimal.github.io
-[linkedin]: https://linkedin.com/in/arvimal
