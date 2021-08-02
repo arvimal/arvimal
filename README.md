@@ -9,7 +9,7 @@
 - 📫 Reach me at **arvimal81@gmail.com**
 - 📫 Connect with me at <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="40" /></a>
 
-<h3 align="left"><b>I have work experience in:</b></h3>
+<h3 align="left"><b>My work experience includes:</b></h3>
 
 - Linux
 - Filesystems & Storage Technologies
@@ -43,8 +43,11 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvimal&show_icons=true&locale=en&layout=compact" alt="arvimal" /></p>
+
 ---
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvimal&" alt="arvimal" /></p>
+
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arvimal&label=Profile%20views&color=0e75b6&style=flat" alt="arvimal" /> </p>
 
