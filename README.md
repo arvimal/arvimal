@@ -40,11 +40,11 @@
 
 ### <b>Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Callables in Python](https://arvimal.github.io/posts/2017/08/2017-08-09-callables-in-python/)
-- [Writing a minimalistic kernel module in Linux - Part 1](https://arvimal.github.io/posts/2017/07/2017-07-27-writing-a-minimalistic-kernel-module-in-linux-part-1/)
-- [Recursion - Algorithm Study](https://arvimal.github.io/posts/2017/06/2017-06-27-recursion-algorithm-study/)
-- [Selection Sort - Algorithm Study](https://arvimal.github.io/posts/2017/02/2017-02-11-selection-sort-algorithm-study/)
-- [Binary Search - Algorithm Study](https://arvimal.github.io/posts/2017/01/2017-01-16-binary-search-algorithm-study/)
+- [About](/about/)
+- [Moving to Hugo](/posts/2021/05/moving_to_hugo/)
+- [Callables in Python](/posts/2017/08/2017-08-09-callables-in-python/)
+- [Writing a minimalistic kernel module in Linux - Part 1](/posts/2017/07/2017-07-27-writing-a-minimalistic-kernel-module-in-linux-part-1/)
+- [Recursion - Algorithm Study](/posts/2017/06/2017-06-27-recursion-algorithm-study/)
 <!-- BLOG-POST-LIST:END -->
 </b>
 
