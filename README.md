@@ -38,7 +38,7 @@
 
 [![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvimal)](https://github.com/anuraghazra/github-readme-stats)
 
-### <b>Blogs posts
+### <b>Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Callables in Python](https://arvimal.github.io/posts/2017/08/2017-08-09-callables-in-python/)
 - [Writing a minimalistic kernel module in Linux - Part 1](https://arvimal.github.io/posts/2017/07/2017-07-27-writing-a-minimalistic-kernel-module-in-linux-part-1/)
