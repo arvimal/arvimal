@@ -38,6 +38,9 @@
 
 [![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvimal)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### <b>Recent Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [About](/about/)
