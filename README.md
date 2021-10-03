@@ -2,7 +2,7 @@
 <h3 align="left"><b>Hi 👋, I'm Vimal, a Systems Engineer working in the Netherlands</b></h3>
 
 - 🔭 I’m currently working on **Ansible, Kubernetes, Python, Containers**
-- 🌱 I’m currently learning **FastAPI & GraphQL**
+- 🌱 I’m learning **FastAPI & GraphQL**
 - 💬 Ask me about **Linux, Python, Ansible**
 - 👨‍💻 My personal projects are available at [https://github.io/arvimal](https://github.io/arvimal)
 - 📝 I write articles at [https://arvimal.github.io](https://arvimal.github.io)
@@ -11,17 +11,12 @@
 
 <h3 align="left"><b>My work experience includes:</b></h3>
 
-- Linux
+- Linux / Unix
 - Filesystems & Storage Technologies
 - Distributed Storage Systems (Ceph / Gluster)
 - Ansible
-- Kubernetes and Containers
-- Python / Bash scripting
-- Networking
-- Jenkins / GitHub Actions
-- Server Administration/Management
-- Anaconda - The Red Hat / Fedora Installer
-- Agile workflows
+- Kubernetes
+- Python / Bash 
 
 <h3 align="left"><b>I am interested in:</b></h3>
 
