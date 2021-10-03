@@ -1,23 +1,20 @@
 
 <h3 align="left"><b>Hi 👋, I'm Vimal, a Systems Engineer working in the Netherlands</b></h3>
 
-- 🔭 Currently working on **Ansible, Kubernetes, Python, Containers**
-- 🌱 Learning **FastAPI & GraphQL**
-- 💬 Ask me about **Linux, Python, Ansible**
-- 👨‍💻 My personal projects are available at [https://github.io/arvimal](https://github.io/arvimal)
-- 📝 I write articles at [https://arvimal.github.io](https://arvimal.github.io)
-- 📫 Reach me at **arvimal81@gmail.com** / 📫 Connect with me at <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="40" /></a>
+- 🔭 Currently working: **Ansible, Kubernetes, Python, Containers**
+- 🌱 Learning: **FastAPI, GraphQL**
+- 📝 Tech articles: [https://arvimal.github.io](https://arvimal.github.io)
+- 📫 Connect: <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="30" /></a>
 
-<h3 align="left"><b>My work experience includes:</b></h3>
+<h3 align="left"><b>Work experience:</b></h3>
 
-- Linux / Unix
+- Linux / Unix / System Administration
 - Filesystems & Storage Technologies
-- Distributed Storage Systems (Ceph / Gluster)
-- Ansible
-- Kubernetes
+- Distributed Systems
+- Ceph, Gluster, Ansible, Kubernetes
 - Python / Bash 
 
-<h3 align="left"><b>I am interested in:</b></h3>
+<h3 align="left"><b>Interested in:</b></h3>
 
 - Site Reliability Engineering
 - Automation
