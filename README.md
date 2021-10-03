@@ -1,13 +1,12 @@
 
 <h3 align="left"><b>Hi 👋, I'm Vimal, a Systems Engineer working in the Netherlands</b></h3>
 
-- 🔭 I’m currently working on **Ansible, Kubernetes, Python, Containers**
-- 🌱 I’m learning **FastAPI & GraphQL**
+- 🔭 Currently working on **Ansible, Kubernetes, Python, Containers**
+- 🌱 Learning **FastAPI & GraphQL**
 - 💬 Ask me about **Linux, Python, Ansible**
 - 👨‍💻 My personal projects are available at [https://github.io/arvimal](https://github.io/arvimal)
 - 📝 I write articles at [https://arvimal.github.io](https://arvimal.github.io)
-- 📫 Reach me at **arvimal81@gmail.com**
-- 📫 Connect with me at <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="40" /></a>
+- 📫 Reach me at **arvimal81@gmail.com** / 📫 Connect with me at <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="40" /></a>
 
 <h3 align="left"><b>My work experience includes:</b></h3>
 
