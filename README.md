@@ -4,7 +4,7 @@
 - 🔭 Currently working with: **Ansible, Kubernetes, Python, Containers**
 - 🌱 Learning: **FastAPI, GraphQL**
 - 📝 Tech articles at: [https://arvimal.github.io](https://arvimal.github.io)
-- 📫 Connect with me: <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="30" /></a>
+- 📫 Let us connect: <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="30" /></a>
 
 <h3 align="left"><b>Work experience:</b></h3>
 
