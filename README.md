@@ -16,7 +16,7 @@
 
 - Site Reliability Engineering
 - Automation
-- Creating user-space tools/utilities
+- Building user-space utilities
 
 ---
 
