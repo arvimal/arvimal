@@ -9,10 +9,8 @@
 <h3 align="left"><b>Work experience:</b></h3>
 
 - Linux / Unix / System Administration
-- Filesystems & Storage Technologies
-- Distributed Systems
-- Ceph, Gluster, Ansible, Kubernetes
-- Python / Bash 
+- Filesystems, Storage, Distributed systems
+- Ceph, Gluster, Ansible, Kubernetes, Python
 
 <h3 align="left"><b>Interested in:</b></h3>
 
