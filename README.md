@@ -1,5 +1,5 @@
 
-<h3 align="left"><b>Hi 👋, I'm Vimal, a Site Reliability Engineer working for [ASML](https://www.asml.com/en) in the Netherlands</b></h3>
+<h3 align="left"><b>Hi 👋, I'm Vimal, a Site Reliability Engineer working in the Netherlands</b></h3>
 
 - 🔭 Currently working with: **GKE, Kubernetes, Observability stacks, Ansible, Terraform, Python/Rust**
 - 🌱 Learning: **Rust, Jsonnet, Flux, Prometheus & Cortex**
