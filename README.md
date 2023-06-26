@@ -1,8 +1,8 @@
 
-<h3 align="left"><b>Hi 👋, I'm Vimal, a Systems Engineer working in the Netherlands</b></h3>
+<h3 align="left"><b>Hi 👋, I'm Vimal, a Site Reliability Engineer working for [ASML](https://www.asml.com/en) in the Netherlands</b></h3>
 
-- 🔭 Currently working with: **Ansible, Kubernetes, Python, Containers**
-- 🌱 Learning: **FastAPI, GraphQL**
+- 🔭 Currently working with: **GKE, Kubernetes, Observability stacks, Ansible, Terraform, Python/Rust**
+- 🌱 Learning: **Rust, Jsonnet, Flux, Prometheus & Cortex**
 - 📝 Tech articles at: [https://arvimal.github.io](https://arvimal.github.io)
 - 📫 Let us connect: <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="30" /></a>
 
