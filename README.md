@@ -1,8 +1,8 @@
 
 <h3 align="left"><b>Hi 👋, I'm Vimal, a Site Reliability Engineer working in the Netherlands</b></h3>
 
-- 🔭 Currently working with: **GKE, Kubernetes, Observability stacks, Ansible/Terraform, Python/Go**
-- 🌱 Learning: **Rust, Jsonnet, Flux, Cortex, & Observability stacks**
+- 🔭 Currently working with: **GKE / Azure, Kubernetes, Observability stacks, Ansible / Terraform, Python / Go**
+- 🌱 Learning: **Rust, Jsonnet, Flux, & Loki-Grafana-Tempo-Mimir Observability stack**
 - 📝 Tech articles at: [https://arvimal.github.io](https://arvimal.github.io)
 - 📫 Let us connect: <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="30" /></a>
 
