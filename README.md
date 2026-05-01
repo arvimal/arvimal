@@ -1,38 +1,24 @@
+# Vimal A R
 
-<h3 align="left"><b>Hi 👋, I'm Vimal, a Site Reliability Engineer working in the Netherlands</b></h3>
-
-- 🔭 Currently working with: **GKE / Azure, Kubernetes, Observability stacks, Ansible / Terraform, Python / Go**
-- 🌱 Learning: **Rust, Jsonnet, Flux, & Loki-Grafana-Tempo-Mimir Observability stack**
-- 📝 Tech articles at: [https://arvimal.github.io](https://arvimal.github.io)
-- 📫 Let us connect: <a href="https://linkedin.com/in/arvimal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvimal" height="30" width="30" /></a>
-
-<h3 align="left"><b>Work experience:</b></h3>
-
-- Linux / Unix / System Administration
-- Filesystems, Storage, Distributed systems
-- Ceph, Gluster, Ansible, Kubernetes, Python
-
-<h3 align="left"><b>Interested in:</b></h3>
-
-- Site Reliability Engineering
-- Automation
-- Building user-space utilities
+Site Reliability Engineer at ASML · Netherlands
 
 ---
 
-[![Vimal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvimal)](https://github.com/anuraghazra/github-readme-stats)
+22 years in Linux infrastructure. Spent 12 years as a Senior Technical Support Engineer at Red Hat — deep work in Linux kernel internals, storage (XFS, Ceph, Gluster, NFS), and enterprise systems at scale. Now SRE, focused on platform reliability, Kubernetes, and observability.
 
-<!--START_SECTION:activity-->
+**Core areas:** Linux internals · Kubernetes · Observability (Prometheus, Grafana, Loki, Tempo) · Terraform · Ansible · Python · Go
 
-<!--END_SECTION:activity-->
+CKA certified.
 
+---
 
+## Writing
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvimal&show_icons=true&locale=en&layout=compact" alt="arvimal" /></p>
+Notes on Linux, SRE, and systems engineering at [arvimal.github.io](https://arvimal.github.io)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvimal&" alt="arvimal" /></p>
+---
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvimal&label=Profile%20views&color=0e75b6&style=flat" alt="arvimal" /> </p>
-
+[LinkedIn](https://linkedin.com/in/arvimal)
