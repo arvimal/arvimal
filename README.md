@@ -12,13 +12,4 @@ CKA certified.
 
 ---
 
-## Writing
-
-Notes on Linux, SRE, and systems engineering at [arvimal.github.io](https://arvimal.github.io)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 [LinkedIn](https://linkedin.com/in/arvimal)
